@@ -1,0 +1,9 @@
+{
+  "owner": {
+    "username": "jot4-ctrl"
+  },
+  "records": {
+    "CNAME": "custom-domains.chatgpt.site."
+  },
+  "proxied": true
+}
